@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rahul Pandey</h1>
+# Hi 👋, I'm Rahul Pandey
+
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;AI%20Engineer;Cloud%20AI%20Practitioner;GenAI%20Innovator;Lifelong%20Learner&center=true&size=22" />
 </h3>
@@ -9,12 +11,12 @@
 
 ---
 
-## 🧠 About Me
+## 🧐 About Me
 
 - 🚀 AI Engineer specialized in **LLMs**, **RAG Pipelines**, and **Cloud Deployments**
 - 🏆 Winner of **NVIDIA NIM Hackathon 2024**
 - 🛠️ Builder of scalable, production-ready AI solutions using **FastAPI**, **Docker**, **Kubernetes**, **NVIDIA Microservices**
-- 🧹 Multi-Agent Architectures using **AutoGen 0.4.0**, **LangGraph**, **Google ADK**
+- 🭹 Multi-Agent Architectures using **AutoGen 0.4.0**, **LangGraph**, **Google ADK**
 - 📝 Continuous learner, passionate about **AI innovation** and **Enterprise AI deployments**
 - 🌐 Deployed full-stack **FastAPI + React** applications across **Azure** and **AWS** cloud
 
@@ -23,18 +25,27 @@
 ## 💡 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/RahulpndtRp/AskGenie" target="_blank">
+  <a href="https://github.com/RahulpndtRp/AskGenie" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Project-AskGenie-blueviolet?style=for-the-badge" alt="AskGenie Badge" />
   </a>
 </div>
 
-<h3 align="center">🚀 <a href="https://github.com/RahulpndtRp/AskGenie" target="_blank">AskGenie (Python Version)</a></h3>
-<p align="center"><strong><em>🚀 A FastAPI-powered intelligent answering engine combining RAG, real-time search, and LLM reasoning.</em></strong></p>
+<h3 align="center">
+  🚀 <a href="https://github.com/RahulpndtRp/AskGenie" target="_blank" rel="noopener noreferrer">AskGenie (Python Version)</a>
+</h3>
 
 <p align="center">
-  <a href="https://askgenie-rahulpndt.onrender.com/" target="_blank">
-    🔗 <strong>Live Demo: AskGenie Application</strong> 🔗
+  <strong><em>🚀 A FastAPI-powered intelligent answering engine combining RAG, real-time search, and LLM reasoning.</em></strong>
+</p>
+
+<p align="center">
+  <a href="https://askgenie-rahulpndt.onrender.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Live-Demo-00C851?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo Badge" />
   </a>
+</p>
+
+<p align="center">
+  🔁 <strong>Click the badge above to try the Live AskGenie Application!</strong>
 </p>
 
 <ul>
@@ -43,17 +54,21 @@
   <li>💡 Fully async FastAPI backend, Redis caching, Production-ready design.</li>
 </ul>
 
-
 <br/>
 
 <div align="center">
-  <a href="https://github.com/RahulpndtRp/ai-learning-assistant" target="_blank">
+  <a href="https://github.com/RahulpndtRp/ai-learning-assistant" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Project-AI%20Learning%20Assistant-blueviolet?style=for-the-badge" alt="AI Learning Assistant Badge" />
   </a>
 </div>
 
-<h3 align="center">📚 <a href="https://github.com/RahulpndtRp/ai-learning-assistant" target="_blank">AI Learning Assistant</a></h3>
-<p align="center"><strong><em>📚 A modular FastAPI application offering AI-powered document analysis and learning tools.</em></strong></p>
+<h3 align="center">
+  📚 <a href="https://github.com/RahulpndtRp/ai-learning-assistant" target="_blank" rel="noopener noreferrer">AI Learning Assistant</a>
+</h3>
+
+<p align="center">
+  <strong><em>📚 A modular FastAPI application offering AI-powered document analysis and learning tools.</em></strong>
+</p>
 
 <ul>
   <li>📚 Developed an <b>AI Learning Assistant</b> integrating YouTube summarization, document Q&A, and comparative analytics.</li>
@@ -100,10 +115,10 @@
 ## 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/RahulpndtRp/AskGenie" target="_blank">
+  <a href="https://github.com/RahulpndtRp/AskGenie" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AskGenie-FastAPI%20%7C%20RAG%20%7C%20LLMs-007ACC?style=for-the-badge" alt="AskGenie Badge" />
   </a>
-  <a href="https://github.com/RahulpndtRp/ai-learning-assistant" target="_blank">
+  <a href="https://github.com/RahulpndtRp/ai-learning-assistant" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AI%20Learning%20Assistant-FastAPI%20%7C%20Document%20QA-00BFFF?style=for-the-badge" alt="AI Learning Assistant Badge" />
   </a>
 </p>
@@ -113,10 +128,10 @@
 ## 📨 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rp-rahulpandey/" target="blank">
+  <a href="https://www.linkedin.com/in/rp-rahulpandey/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/RahulpndtRp" target="blank">
+  <a href="https://github.com/RahulpndtRp" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -124,9 +139,8 @@
 ---
 
 <p align="center">
-🚀 Always Building | Always Learning | Always Innovating
-<br/>
-✨ Thanks for visiting my profile! Feel free to connect or explore my projects.
-<br/>
+🚀 Always Building | Always Learning | Always Innovating<br/>
+✨ Thanks for visiting my profile! Feel free to connect or explore my projects.<br/>
 💬 "Code. Innovate. Repeat."
 </p>
+
