@@ -31,11 +31,18 @@
 <h3 align="center">🚀 <a href="https://github.com/RahulpndtRp/AskGenie" target="_blank">AskGenie (Python Version)</a></h3>
 <p align="center"><strong><em>🚀 A FastAPI-powered intelligent answering engine combining RAG, real-time search, and LLM reasoning.</em></strong></p>
 
+<p align="center">
+  <a href="https://askgenie-rahulpndt.onrender.com/" target="_blank">
+    🔗 <strong>Live Demo: AskGenie Application</strong> 🔗
+  </a>
+</p>
+
 <ul>
   <li>🚀 Built a modular, scalable <b>LLM-based Intelligent Answering System</b> with real-time capabilities.</li>
   <li>🔄 Features: Web search, Web scraping, FAISS RAG, Function Calling with OpenAI/Groq models.</li>
   <li>💡 Fully async FastAPI backend, Redis caching, Production-ready design.</li>
 </ul>
+
 
 <br/>
 
