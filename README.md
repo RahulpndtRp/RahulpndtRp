@@ -1,6 +1,5 @@
 # Hi 👋, I'm Rahul Pandey
 
-
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;AI%20Engineer;Cloud%20AI%20Practitioner;GenAI%20Innovator;Lifelong%20Learner&center=true&size=22" />
 </h3>
@@ -13,16 +12,44 @@
 
 ## 🧐 About Me
 
-- 🚀 AI Engineer specialized in **LLMs**, **RAG Pipelines**, and **Cloud Deployments**
-- 🏆 Winner of **NVIDIA NIM Hackathon 2024**
-- 🛠️ Builder of scalable, production-ready AI solutions using **FastAPI**, **Docker**, **Kubernetes**, **NVIDIA Microservices**
-- 🭹 Multi-Agent Architectures using **AutoGen 0.4.0**, **LangGraph**, **Google ADK**
-- 📝 Continuous learner, passionate about **AI innovation** and **Enterprise AI deployments**
-- 🌐 Deployed full-stack **FastAPI + React** applications across **Azure** and **AWS** cloud
+* 🚀 AI Engineer specialized in **LLMs**, **RAG Pipelines**, and **Cloud Deployments**
+* 🏆 Winner of **NVIDIA NIM Hackathon 2024**
+* 🛠️ Builder of scalable, production-ready AI solutions using **FastAPI**, **Docker**, **Kubernetes**, **NVIDIA Microservices**
+* 🭹 Multi-Agent Architectures using **AutoGen 0.4.0**, **LangGraph**, **Google ADK**
+* 📝 Continuous learner, passionate about **AI innovation** and **Enterprise AI deployments**
+* 🌐 Deployed full-stack **FastAPI + React** applications across **Azure** and **AWS** cloud
 
 ---
 
 ## 💡 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/RahulpndtRp/mem-rp" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Project-MEM--RP-blueviolet?style=for-the-badge" alt="Memory RP Badge" />
+  </a>
+</div>
+
+<h3 align="center">
+  🧠 <a href="https://github.com/RahulpndtRp/mem-rp" target="_blank" rel="noopener noreferrer">MEM-RP</a>
+</h3>
+
+<p align="center">
+  <strong><em>🧠 A Streamlit-based memory-first RAG system leveraging STM, LTM, and structured LLM reasoning.</em></strong>
+</p>
+
+<p align="center">
+  <a href="https://memlite.streamlit.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Live-App-00C851?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo Badge" />
+  </a>
+</p>
+
+<ul>
+  <li>🧠 Built an AI chatbot with short-term and long-term memory fusion, designed for contextual continuity and accuracy.</li>
+  <li>📦 Integrates OpenAI embeddings, FAISS for long-term memory, and a lightweight in-memory ring buffer for STM.</li>
+  <li>✨ Designed for developers seeking reusable memory-enabled RAG components in a plug-and-play fashion.</li>
+</ul>
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/RahulpndtRp/AskGenie" target="_blank" rel="noopener noreferrer">
@@ -115,6 +142,9 @@
 ## 📌 Pinned Repositories
 
 <p align="center">
+  <a href="https://github.com/RahulpndtRp/mem-rp" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/MEM--RP-Streamlit%20%7C%20Memory%20RAG%20System-EE82EE?style=for-the-badge" alt="MemRP Badge" />
+  </a>
   <a href="https://github.com/RahulpndtRp/AskGenie" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AskGenie-FastAPI%20%7C%20RAG%20%7C%20LLMs-007ACC?style=for-the-badge" alt="AskGenie Badge" />
   </a>
@@ -143,4 +173,3 @@
 ✨ Thanks for visiting my profile! Feel free to connect or explore my projects.<br/>
 💬 "Code. Innovate. Repeat."
 </p>
-
